@@ -236,7 +236,7 @@
 
 <div align="center">
 
-<a href="https://github.com/Sindhura492/AI-Chatbot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sindhura492&repo=AI-Chatbot&theme=radical&hide_border=true" /></a>
+<a href="https://github.com/Sindhura492/whisk"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sindhura492&repo=whisk&theme=radical&hide_border=true" /></a>
 <a href="https://github.com/Sindhura492/Compass4Chemnitz"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sindhura492&repo=Compass4Chemnitz&theme=radical&hide_border=true" /></a>
 <a href="https://github.com/Sindhura492/denkMinds-Website"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sindhura492&repo=denkMinds-Website&theme=radical&hide_border=true" /></a>
 
