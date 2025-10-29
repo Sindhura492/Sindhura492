@@ -2,10 +2,16 @@
   
 # 💻 Sindhura Shivaprasad
 
-### Full Stack Developer & AI Enthusiast | Building Scalable Systems with Modern Tech
+### Full-Stack Engineer | AI Enthusiast | MSc Web Engineering @ TU Chemnitz
+
+**Currently:** Full-Stack Working Student at Fraunhofer FOKUS, Berlin  
+**Location:** 🌍 Chemnitz, Germany
 
 [![GitHub followers](https://img.shields.io/github/followers/Sindhura492?style=social)](https://github.com/Sindhura492)
 [![GitHub stars](https://img.shields.io/github/stars/Sindhura492?style=social)](https://github.com/Sindhura492)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sindhura--s-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sindhura-s)
+[![Portfolio](https://img.shields.io/badge/Portfolio-sindhura.vercel.app-FF6B9D?style=flat)](https://sindhura.vercel.app)
+[![Email](https://img.shields.io/badge/Email-sindhurashivaprasad49@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sindhurashivaprasad49@gmail.com)
 
 ---
 
@@ -61,6 +67,7 @@
 ![Ant Design](https://img.shields.io/badge/Ant%20Design-0170FE?style=for-the-badge&logo=ant-design&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-FF6B6B?style=for-the-badge&logo=zustand&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 </div>
 
@@ -86,6 +93,8 @@
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Convex](https://img.shields.io/badge/Convex-FF6B9D?style=for-the-badge&logo=convex&logoColor=white)
 
 </div>
 
@@ -98,6 +107,15 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+</div>
+
+### 🚀 Event-Driven & Messaging
+<div align="center">
+  
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
 </div>
 
@@ -116,6 +134,7 @@
 ### 🧪 Testing & Monitoring
 <div align="center">
   
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![PyTest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
@@ -125,17 +144,96 @@
 
 ---
 
-## 🚀 What I'm Working On
+## 💼 Experience
 
-```typescript
-const sindhura = {
-  currentFocus: "Building scalable full-stack applications",
-  expertise: ["AI Integration", "Microservices", "System Design"],
-  learning: ["Advanced AI/ML", "Cloud Architecture"],
-  methodologies: ["Agile", "Scrum", "Kanban"],
-  passion: "Creating intelligent solutions that solve real-world problems"
-};
-```
+### 🏢 **Full-Stack Working Student** | Fraunhofer FOKUS, Berlin  
+*May 2024 - Present*
+
+- 🧠 Developing intelligent network optimization systems using **GraphQL, GraphRAG, and FastAPI** with **OpenAI's LLM** integration
+- 🎨 Building interactive **Next.js & TypeScript** frontends for performance dashboards and network control interfaces
+- ☁️ Creating cellular data monitoring platforms with **Node.js/Express** and **React**, deployed on **AWS EC2** with **Grafana** observability
+
+### 🏢 **Associate Full-Stack Engineer** | Rakuten, Bengaluru  
+*Dec 2022 - Aug 2023*
+
+- 🏗️ Designed microservice architecture for high-volume payment workflows with **Redis caching** and **CMS** modules
+- 🚀 Built **FastAPI** microservices and **Node.js** services with **Kafka** for event-driven payment orchestration
+- 🔍 Integrated **Elasticsearch** for faster data retrieval and implemented load balancing for high availability
+- ☁️ Deployed cloud-native infrastructure on **AWS (EC2, Lambda, S3)** with **CI/CD** pipelines using **Docker & GitHub Actions**
+
+### 🏢 **Technical Intern (Full-Stack)** | Rakuten, Bengaluru  
+*Mar 2022 - Nov 2022*
+
+- 🔄 Migrated monolithic **Ruby on Rails** services to **Python (Django)** microservices
+- ⚛️ Built modular **React & TypeScript** interfaces with focus on reusable components and accessibility
+- 🧪 Implemented unit testing frameworks and **CI/CD** pipelines, collaborating with cross-functional agile teams
+
+---
+
+## 🎓 Education
+
+<div align="center">
+
+**MSc in Web Engineering** | Technical University of Chemnitz, Germany  
+*Oct 2023 - Present (Graduating soon)*
+
+**Thesis:** Enhancing chatbots with knowledge graphs for contextual reasoning in cybersecurity  
+*Technologies: Neo4j AuraDB, GPT-4, RAG, Prompt Engineering, AI Tagging*
+
+**B.E in Information Science** | Visvesvaraya Technological University, India  
+*Aug 2018 - Jul 2022*
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+### 🤖 AI-Assisted Cybersecurity Chatbot (MIRA)
+**Tech Stack:** React, TypeScript, Node.js, Prisma, GPT-4, RAG, n8n  
+**Deployment:** Vercel (Frontend) | GCP VM (Backend)  
+**Description:** Full-stack AI chatbot integrating RAG-based CVE analysis, GPT-4 automation, and n8n workflows  
+🏆 **2nd Place - TU Chemnitz AI Startup Simulation**
+
+[![GitHub](https://img.shields.io/badge/GitHub-AI%20Chatbot%20%2F%20MIRA-181717?style=flat&logo=github)](https://github.com/Sindhura492)
+
+---
+
+### ⚡ Whisk - AI-Spec Code Generation
+**Tech Stack:** React, TypeScript, Django REST, PostgreSQL, OpenAI API  
+**Deployment:** Vercel (Frontend) | GCP (Backend)  
+**Description:** AI-powered platform for automated specification generation and backend code creation with real-time previews
+
+[![GitHub](https://img.shields.io/badge/GitHub-denkMinds%20Website-181717?style=flat&logo=github)](https://github.com/Sindhura492)
+
+---
+
+### 🗺️ Compass4Chemnitz - Geospatial Civic Navigation Platform
+**Tech Stack:** Django, React, RESTful APIs  
+**Description:** Full-stack civic data platform with RESTful APIs, cron-based data updates, and caching optimization
+
+[![GitHub](https://img.shields.io/badge/GitHub-Compass4Chemnitz-181717?style=flat&logo=github)](https://github.com/Sindhura492)
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+📄 **Co-authored "GraphGPT"** - AI for Intent-Based Network Management  
+*Published at IEEE NetSoft 2025*
+
+🥈 **2nd Place** - TU Chemnitz AI Startup Simulation  
+*For developing AI cybersecurity chatbot "MIRA"*
+
+🥈 **2nd Place** - Medical Classification App  
+*"Breast Cancer Detection Using Deep Learning"*
+
+</div>
 
 ---
 
@@ -149,13 +247,33 @@ const sindhura = {
 
 ---
 
-## 💡 Fun Facts
+## 🌍 Languages
 
-- 🎯 Built **machine learning-driven corporate tools** with AI integration
-- 🧠 Research enthusiast working with **GPT-4, RAG, and Knowledge Graphs**
-- 🚀 Passionate about **scalable architecture** and **microservices**
-- ⚡ Love coding in **TypeScript** and **Python**
-- 🌐 Deployed applications across **AWS** and **GCP**
+<div align="center">
+  
+🇩🇪 German - B1 (in progress) | 🇬🇧 English - C2 | 🇮🇳 Hindi - Proficient | 🇮🇳 Kannada - Native
+
+</div>
+
+---
+
+## 💡 Currently Working On
+
+```typescript
+const sindhura = {
+  role: "Full-Stack Working Student @ Fraunhofer FOKUS",
+  currentFocus: "AI-powered network optimization & prediction systems",
+  expertise: [
+    "GraphQL & GraphRAG",
+    "Microservices Architecture", 
+    "AI/LLM Integration",
+    "Event-Driven Systems"
+  ],
+  thesis: "Knowledge Graphs for Cybersecurity Chatbots",
+  methodologies: ["Agile", "Scrum", "Kanban"],
+  passion: "Building intelligent systems that solve real-world problems"
+};
+```
 
 ---
 
@@ -163,9 +281,10 @@ const sindhura = {
   
 ### 🌟 "Code is poetry written in logic" 🌟
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B9D?style=for-the-badge)](https://github.com/Sindhura492)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-sindhura.vercel.app-FF6B9D?style=for-the-badge)](https://sindhura.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sindhura--s-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sindhura-s)
+[![GitHub](https://img.shields.io/badge/GitHub-Sindhura492-181717?style=for-the-badge&logo=github)](https://github.com/Sindhura492)
+[![Email](https://img.shields.io/badge/Email-sindhurashivaprasad49@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sindhurashivaprasad49@gmail.com)
 
 ---
 
@@ -173,6 +292,6 @@ const sindhura = {
   
 ![](https://komarev.com/ghpvc/?username=Sindhura492&color=FF6B9D&label=Profile+Views)
 
-Made with ❤️ and lots of ☕
+Made with ❤️ and lots of ☕ | 3+ years of crafting scalable solutions
 
 </div>
