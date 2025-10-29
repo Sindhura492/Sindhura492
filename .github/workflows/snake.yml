@@ -17,11 +17,15 @@ jobs:
       contents: write
 
     steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
       - name: Generate GitHub Contribution Grid Snake
         uses: Platane/snk@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           github_user_name: Sindhura492
+          out_dir: output
           file_name_generated: github-contribution-grid-snake.svg
           file_name_generated_dark: github-contribution-grid-snake-dark.svg
