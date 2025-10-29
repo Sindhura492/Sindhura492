@@ -2,8 +2,8 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    # Update every 6 hours
-    - cron: '0 */6 * * *'
+    # Update daily at midnight UTC (keeps it updated with latest contributions)
+    - cron: '0 0 * * *'
   workflow_dispatch:
   push:
     branches:
@@ -27,6 +27,7 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          args: --from 2024-01-01
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
@@ -35,6 +36,6 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
-          commit_message: "Update snake animation"
+          commit_message: "Update snake animation [from 2024-01-01 to today]"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
