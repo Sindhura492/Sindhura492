@@ -13,29 +13,43 @@
 
 ---
 
-## 🔥 GitHub Stats
+## 💡 Currently Working On
+
+```typescript
+const sindhura = {
+  role: "Full-Stack Working Student @ Fraunhofer FOKUS",
+  currentFocus: "AI-powered network optimization & prediction systems",
+  expertise: [
+    "GraphQL & GraphRAG",
+    "Microservices Architecture", 
+    "AI/LLM Integration",
+    "Event-Driven Systems"
+  ],
+  thesis: "Knowledge Graphs for Cybersecurity Chatbots",
+  methodologies: ["Agile", "Scrum", "Kanban"],
+  passion: "Building intelligent systems that solve real-world problems"
+};
+```
+
+---
+
+## 🔥 Contributions & Streak
 
 <div align="center">
   
-![Sindhura's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sindhura492&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&icon_color=FFC107&text_color=FFFFFF&include_all_commits=true&count_private=false)
-  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sindhura492&theme=radical&hide_border=true&background=0D1117&ring=FF6B9D&fire=FF6B9D&currStreakLabel=FF6B9D)
-  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sindhura492&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&text_color=FFFFFF&include_all_commits=true)
+
+<img alt="Contribution heatmap" src="https://ghchart.rshah.org/FF6B9D/Sindhura492" />
 
 </div>
 
 ---
 
-## 🐍 My Contributions!
+## 📚 Most Used Languages
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sindhura492/Sindhura492/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sindhura492/Sindhura492/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sindhura492/Sindhura492/output/github-contribution-grid-snake.svg">
-</picture>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sindhura492&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&text_color=FFFFFF&include_all_commits=true)
 
 </div>
 
@@ -142,6 +156,42 @@
 
 ---
 
+## 🐍 Contributions Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sindhura492/Sindhura492/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sindhura492/Sindhura492/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sindhura492/Sindhura492/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
+
+## 📈 Sindhura's GitHub Stats
+
+<div align="center">
+  
+![Sindhura's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sindhura492&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&icon_color=FFC107&text_color=FFFFFF&include_all_commits=true&count_private=false)
+
+</div>
+
+---
+
+## 📌 Pinned Projects
+
+<div align="center">
+
+<a href="https://github.com/Sindhura492/AI-Chatbot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sindhura492&repo=AI-Chatbot&theme=radical&hide_border=true" /></a>
+<a href="https://github.com/Sindhura492/Compass4Chemnitz"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sindhura492&repo=Compass4Chemnitz&theme=radical&hide_border=true" /></a>
+<a href="https://github.com/Sindhura492/denkMinds-Website"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sindhura492&repo=denkMinds-Website&theme=radical&hide_border=true" /></a>
+
+</div>
+
+---
+
 ## 💼 Experience
 
 - **Fraunhofer FOKUS (2024—Present)**: Building AI-driven network optimization — GraphRAG + FastAPI backend, Next.js dashboards, AWS/Grafana observability.
@@ -163,59 +213,11 @@ Thesis: Knowledge Graphs for Cybersecurity Chatbots (Neo4j AuraDB, GPT‑4, RAG)
 
 ---
 
-## 🚀 Featured Projects
-
-- **MIRA – AI Cybersecurity Chatbot** (React/TS, Node, Prisma, GPT‑4, RAG, n8n) — triage automation; 2nd place at TU Chemnitz AI Simulation.  
-- **Whisk – AI‑Spec Code Generation** (React, Django REST, PostgreSQL, OpenAI) — realtime previews and auto‑generated backends.  
-- **Compass4Chemnitz** (Django + React) — civic data APIs with cron updates and caching.  
-
----
-
 ## 🏆 Highlights
 
 - IEEE NetSoft 2025: Co‑authored "GraphGPT" for intent‑based network management.
 - 2nd place: TU Chemnitz AI Startup Simulation (MIRA).
 - 2nd place: Medical classification app — "Breast Cancer Detection Using Deep Learning".
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sindhura492&theme=radical&hide_border=true&bg_color=0D1117&color=FF6B9D&line=FFC107&point=FFFFFF)
-
-</div>
-
----
-
-## 🌍 Languages
-
-<div align="center">
-  
-🇩🇪 German - B1 (in progress) | 🇬🇧 English - C2 | 🇮🇳 Hindi - Proficient | 🇮🇳 Kannada - Native
-
-</div>
-
----
-
-## 💡 Currently Working On
-
-```typescript
-const sindhura = {
-  role: "Full-Stack Working Student @ Fraunhofer FOKUS",
-  currentFocus: "AI-powered network optimization & prediction systems",
-  expertise: [
-    "GraphQL & GraphRAG",
-    "Microservices Architecture", 
-    "AI/LLM Integration",
-    "Event-Driven Systems"
-  ],
-  thesis: "Knowledge Graphs for Cybersecurity Chatbots",
-  methodologies: ["Agile", "Scrum", "Kanban"],
-  passion: "Building intelligent systems that solve real-world problems"
-};
-```
 
 ---
 
