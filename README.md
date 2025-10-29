@@ -15,21 +15,61 @@
 
 ## 💡 Currently Working On
 
-```typescript
-const sindhura = {
-  role: "Full-Stack Working Student @ Fraunhofer FOKUS",
-  currentFocus: "AI-powered network optimization & prediction systems",
-  expertise: [
-    "GraphQL & GraphRAG",
-    "Microservices Architecture", 
-    "AI/LLM Integration",
-    "Event-Driven Systems"
-  ],
-  thesis: "Knowledge Graphs for Cybersecurity Chatbots",
-  methodologies: ["Agile", "Scrum", "Kanban"],
-  passion: "Building intelligent systems that solve real-world problems"
-};
-```
+<div align="center">
+
+### 🚀 Building the Future, One Commit at a Time
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+**🎯 Current Focus**
+
+<br>
+
+🧠 **AI-Powered Network Optimization**  
+Building intelligent prediction systems with GraphRAG & FastAPI
+
+<br>
+
+🎓 **Thesis Research**  
+Knowledge Graphs for Cybersecurity Chatbots  
+*Neo4j AuraDB • GPT-4 • RAG • Prompt Engineering*
+
+</td>
+<td width="50%" align="center">
+
+**⚡ Expertise Stack**
+
+<br>
+
+<div align="left">
+  
+🕸️ **GraphQL & GraphRAG**  
+🏗️ **Microservices Architecture**  
+🤖 **AI/LLM Integration**  
+⚡ **Event-Driven Systems**
+
+</div>
+
+<br>
+
+**📍 Fraunhofer FOKUS**  
+*Full-Stack Working Student*
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+![Working](https://img.shields.io/badge/Status-Active%20Development-FF6B9D?style=for-the-badge&logo=github)
+![Methodology](https://img.shields.io/badge/Methodology-Agile%20%7C%20Scrum%20%7C%20Kanban-FFC107?style=for-the-badge)
+![Passion](https://img.shields.io/badge/Passion-Solving%20Real%20World%20Problems-008CC1?style=for-the-badge)
+
+</div>
+
+</div>
 
 ---
 
