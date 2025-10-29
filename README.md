@@ -26,12 +26,12 @@
 <tr>
 <td width="33%" align="center" style="padding: 10px;">
 
-<img src="https://img.shields.io/badge/🧠-AI%20Network%20Optimization-FF006E?style=for-the-badge&logo=sparkles&logoColor=white" />
+<img src="https://img.shields.io/badge/🧠-AI%20Integration%20%26%20Solutions-FF006E?style=for-the-badge&logo=sparkles&logoColor=white" />
 
 <br><br>
 
-**GraphRAG + FastAPI**  
-*Building Prediction Systems*
+**AI/LLM Integration**  
+*Building Intelligent Systems & Automations*
 
 </td>
 <td width="34%" align="center" style="padding: 10px;">
