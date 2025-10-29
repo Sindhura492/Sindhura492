@@ -17,7 +17,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%23FF6B9D&size=35&center=true&vCenter=true&width=650&height=70&lines=✨+Crafting+Intelligent+Systems;🚀+AI-Powered+Innovation+in+Action" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%2300D9FF&size=38&center=true&vCenter=true&width=700&height=80&lines=✨+Crafting+Intelligent+Systems;🚀+AI-Powered+Innovation+in+Action" alt="Typing SVG" />
 
 <br>
 <br>
