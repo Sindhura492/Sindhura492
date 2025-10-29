@@ -17,55 +17,67 @@
 
 <div align="center">
 
-### 🚀 Building the Future, One Commit at a Time
+<img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%23FF6B9D&size=35&center=true&vCenter=true&width=650&height=70&lines=✨+Crafting+Intelligent+Systems;🚀+AI-Powered+Innovation+in+Action" alt="Typing SVG" />
+
+<br>
+<br>
 
 <table>
 <tr>
-<td width="50%" align="center">
+<td width="33%" align="center" style="padding: 10px;">
 
-**🎯 Current Focus**
+<img src="https://img.shields.io/badge/🧠-AI%20Network%20Optimization-FF006E?style=for-the-badge&logo=sparkles&logoColor=white" />
 
-<br>
+<br><br>
 
-🧠 **AI-Powered Network Optimization**  
-Building intelligent prediction systems with GraphRAG & FastAPI
-
-<br>
-
-🎓 **Thesis Research**  
-Knowledge Graphs for Cybersecurity Chatbots  
-*Neo4j AuraDB • GPT-4 • RAG • Prompt Engineering*
+**GraphRAG + FastAPI**  
+*Building Prediction Systems*
 
 </td>
-<td width="50%" align="center">
+<td width="34%" align="center" style="padding: 10px;">
 
-**⚡ Expertise Stack**
+<img src="https://img.shields.io/badge/🎓-Thesis%20Research-9333EA?style=for-the-badge&logo=book&logoColor=white" />
 
-<br>
+<br><br>
 
-<div align="left">
-  
-🕸️ **GraphQL & GraphRAG**  
-🏗️ **Microservices Architecture**  
-🤖 **AI/LLM Integration**  
-⚡ **Event-Driven Systems**
+**Knowledge Graphs**  
+*Neo4j • GPT-4 • RAG*
 
-</div>
+</td>
+<td width="33%" align="center" style="padding: 10px;">
 
-<br>
+<img src="https://img.shields.io/badge/📍-Fraunhofer%20FOKUS-00D9FF?style=for-the-badge&logo=briefcase&logoColor=white" />
 
-**📍 Fraunhofer FOKUS**  
-*Full-Stack Working Student*
+<br><br>
+
+**Full-Stack Engineer**  
+*Working Student*
 
 </td>
 </tr>
 </table>
 
+<br>
+
 <div align="center">
 
-![Working](https://img.shields.io/badge/Status-Active%20Development-FF6B9D?style=for-the-badge&logo=github)
-![Methodology](https://img.shields.io/badge/Methodology-Agile%20%7C%20Scrum%20%7C%20Kanban-FFC107?style=for-the-badge)
-![Passion](https://img.shields.io/badge/Passion-Solving%20Real%20World%20Problems-008CC1?style=for-the-badge)
+### ⚡ Tech Arsenal
+
+![GraphQL](https://img.shields.io/badge/GraphQL-FF006E?style=for-the-badge&logo=graphql&logoColor=white&labelColor=9333EA)
+![GraphRAG](https://img.shields.io/badge/GraphRAG-00D9FF?style=for-the-badge&logo=graph&logoColor=white&labelColor=9333EA)
+![Microservices](https://img.shields.io/badge/Microservices-FF6B9D?style=for-the-badge&logo=docker&logoColor=white&labelColor=FF006E)
+![AI/LLM](https://img.shields.io/badge/AI%2FLLM-9333EA?style=for-the-badge&logo=brain&logoColor=white&labelColor=00D9FF)
+![Event-Driven](https://img.shields.io/badge/Event--Driven-00D9FF?style=for-the-badge&logo=lightning&logoColor=white&labelColor=FF006E)
+
+</div>
+
+<br>
+
+<div align="center">
+
+![Status](https://img.shields.io/badge/🟢-Active%20Development-00FF88?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=1a1a1a)
+![Methodology](https://img.shields.io/badge/Agile%20%7C%20Scrum%20%7C%20Kanban-FF6B9D?style=for-the-badge&logo=check-circle&logoColor=white&labelColor=FF006E)
+![Mission](https://img.shields.io/badge/Solving%20Real--World%20Problems-9333EA?style=for-the-badge&logo=rocket&logoColor=white&labelColor=00D9FF)
 
 </div>
 
