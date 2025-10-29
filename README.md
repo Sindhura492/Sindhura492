@@ -27,7 +27,7 @@
 
 ---
 
-## 🐍 Snake Eating My Contributions!
+## 🐍 My Contributions!
 
 <div align="center">
 
