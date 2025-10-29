@@ -166,11 +166,8 @@ Thesis: Knowledge Graphs for Cybersecurity Chatbots (Neo4j AuraDB, GPT‑4, RAG)
 ## 🚀 Featured Projects
 
 - **MIRA – AI Cybersecurity Chatbot** (React/TS, Node, Prisma, GPT‑4, RAG, n8n) — triage automation; 2nd place at TU Chemnitz AI Simulation.  
-  [Demo/GitHub](https://github.com/Sindhura492)
 - **Whisk – AI‑Spec Code Generation** (React, Django REST, PostgreSQL, OpenAI) — realtime previews and auto‑generated backends.  
-  [Repo](https://github.com/Sindhura492)
 - **Compass4Chemnitz** (Django + React) — civic data APIs with cron updates and caching.  
-  [Repo](https://github.com/Sindhura492)
 
 ---
 
