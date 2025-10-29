@@ -7,8 +7,6 @@
 **Currently:** Full-Stack Working Student at Fraunhofer FOKUS, Berlin  
 **Location:** 🌍 Chemnitz, Germany
 
-[![GitHub followers](https://img.shields.io/github/followers/Sindhura492?style=social)](https://github.com/Sindhura492)
-[![GitHub stars](https://img.shields.io/github/stars/Sindhura492?style=social)](https://github.com/Sindhura492)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sindhura--s-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sindhura-s)
 [![Portfolio](https://img.shields.io/badge/Portfolio-sindhura.vercel.app-FF6B9D?style=flat)](https://sindhura.vercel.app)
 [![Email](https://img.shields.io/badge/Email-sindhurashivaprasad49@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sindhurashivaprasad49@gmail.com)
@@ -146,27 +144,9 @@
 
 ## 💼 Experience
 
-### 🏢 **Full-Stack Working Student** | Fraunhofer FOKUS, Berlin  
-*May 2024 - Present*
-
-- 🧠 Developing intelligent network optimization systems using **GraphQL, GraphRAG, and FastAPI** with **OpenAI's LLM** integration
-- 🎨 Building interactive **Next.js & TypeScript** frontends for performance dashboards and network control interfaces
-- ☁️ Creating cellular data monitoring platforms with **Node.js/Express** and **React**, deployed on **AWS EC2** with **Grafana** observability
-
-### 🏢 **Associate Full-Stack Engineer** | Rakuten, Bengaluru  
-*Dec 2022 - Aug 2023*
-
-- 🏗️ Designed microservice architecture for high-volume payment workflows with **Redis caching** and **CMS** modules
-- 🚀 Built **FastAPI** microservices and **Node.js** services with **Kafka** for event-driven payment orchestration
-- 🔍 Integrated **Elasticsearch** for faster data retrieval and implemented load balancing for high availability
-- ☁️ Deployed cloud-native infrastructure on **AWS (EC2, Lambda, S3)** with **CI/CD** pipelines using **Docker & GitHub Actions**
-
-### 🏢 **Technical Intern (Full-Stack)** | Rakuten, Bengaluru  
-*Mar 2022 - Nov 2022*
-
-- 🔄 Migrated monolithic **Ruby on Rails** services to **Python (Django)** microservices
-- ⚛️ Built modular **React & TypeScript** interfaces with focus on reusable components and accessibility
-- 🧪 Implemented unit testing frameworks and **CI/CD** pipelines, collaborating with cross-functional agile teams
+- **Fraunhofer FOKUS (2024—Present)**: Building AI-driven network optimization — GraphRAG + FastAPI backend, Next.js dashboards, AWS/Grafana observability.
+- **Rakuten – Associate (2022—2023)**: Microservices for payments — FastAPI/Node.js, Kafka, Redis; Elasticsearch + AWS CI/CD for scale.
+- **Rakuten – Intern (2022)**: Django → microservices, React/TS UI, test automation and CI/CD.
 
 ---
 
@@ -174,14 +154,10 @@
 
 <div align="center">
 
-**MSc in Web Engineering** | Technical University of Chemnitz, Germany  
-*Oct 2023 - Present (Graduating soon)*
+**MSc, Web Engineering** — TU Chemnitz (Oct 2023–Present)  
+Thesis: Knowledge Graphs for Cybersecurity Chatbots (Neo4j AuraDB, GPT‑4, RAG)
 
-**Thesis:** Enhancing chatbots with knowledge graphs for contextual reasoning in cybersecurity  
-*Technologies: Neo4j AuraDB, GPT-4, RAG, Prompt Engineering, AI Tagging*
-
-**B.E in Information Science** | Visvesvaraya Technological University, India  
-*Aug 2018 - Jul 2022*
+**B.E, Information Science** — VTU, India
 
 </div>
 
@@ -189,51 +165,20 @@
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
-### 🤖 AI-Assisted Cybersecurity Chatbot (MIRA)
-**Tech Stack:** React, TypeScript, Node.js, Prisma, GPT-4, RAG, n8n  
-**Deployment:** Vercel (Frontend) | GCP VM (Backend)  
-**Description:** Full-stack AI chatbot integrating RAG-based CVE analysis, GPT-4 automation, and n8n workflows  
-🏆 **2nd Place - TU Chemnitz AI Startup Simulation**
-
-[![GitHub](https://img.shields.io/badge/GitHub-AI%20Chatbot%20%2F%20MIRA-181717?style=flat&logo=github)](https://github.com/Sindhura492)
+- **MIRA – AI Cybersecurity Chatbot** (React/TS, Node, Prisma, GPT‑4, RAG, n8n) — triage automation; 2nd place at TU Chemnitz AI Simulation.  
+  [Demo/GitHub](https://github.com/Sindhura492)
+- **Whisk – AI‑Spec Code Generation** (React, Django REST, PostgreSQL, OpenAI) — realtime previews and auto‑generated backends.  
+  [Repo](https://github.com/Sindhura492)
+- **Compass4Chemnitz** (Django + React) — civic data APIs with cron updates and caching.  
+  [Repo](https://github.com/Sindhura492)
 
 ---
 
-### ⚡ Whisk - AI-Spec Code Generation
-**Tech Stack:** React, TypeScript, Django REST, PostgreSQL, OpenAI API  
-**Deployment:** Vercel (Frontend) | GCP (Backend)  
-**Description:** AI-powered platform for automated specification generation and backend code creation with real-time previews
+## 🏆 Highlights
 
-[![GitHub](https://img.shields.io/badge/GitHub-denkMinds%20Website-181717?style=flat&logo=github)](https://github.com/Sindhura492)
-
----
-
-### 🗺️ Compass4Chemnitz - Geospatial Civic Navigation Platform
-**Tech Stack:** Django, React, RESTful APIs  
-**Description:** Full-stack civic data platform with RESTful APIs, cron-based data updates, and caching optimization
-
-[![GitHub](https://img.shields.io/badge/GitHub-Compass4Chemnitz-181717?style=flat&logo=github)](https://github.com/Sindhura492)
-
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-📄 **Co-authored "GraphGPT"** - AI for Intent-Based Network Management  
-*Published at IEEE NetSoft 2025*
-
-🥈 **2nd Place** - TU Chemnitz AI Startup Simulation  
-*For developing AI cybersecurity chatbot "MIRA"*
-
-🥈 **2nd Place** - Medical Classification App  
-*"Breast Cancer Detection Using Deep Learning"*
-
-</div>
+- IEEE NetSoft 2025: Co‑authored "GraphGPT" for intent‑based network management.
+- 2nd place: TU Chemnitz AI Startup Simulation (MIRA).
+- 2nd place: Medical classification app — "Breast Cancer Detection Using Deep Learning".
 
 ---
 
