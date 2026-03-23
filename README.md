@@ -24,7 +24,7 @@
 
 <table>
 <tr>
-<td width="33%" align="center" style="padding: 10px;">
+<td width="50%" align="center" style="padding: 10px;">
 
 <img src="https://img.shields.io/badge/🧠-AI%20Integration%20%26%20Solutions-FF006E?style=for-the-badge&logo=sparkles&logoColor=white" />
 
@@ -34,17 +34,7 @@
 *Building Intelligent Systems & Automations*
 
 </td>
-<td width="34%" align="center" style="padding: 10px;">
-
-<img src="https://img.shields.io/badge/🎓-Thesis%20Research-9333EA?style=for-the-badge&logo=book&logoColor=white" />
-
-<br><br>
-
-**Knowledge Graphs**  
-*Neo4j • GPT-4 • RAG*
-
-</td>
-<td width="33%" align="center" style="padding: 10px;">
+<td width="50%" align="center" style="padding: 10px;">
 
 <img src="https://img.shields.io/badge/📍-Fraunhofer%20FOKUS-00D9FF?style=for-the-badge&logo=briefcase&logoColor=white" />
 
@@ -243,8 +233,7 @@
 
 <div align="center">
 
-**MSc, Web Engineering** — TU Chemnitz (Oct 2023–Present)  
-Thesis: Knowledge Graphs for Cybersecurity Chatbots (Neo4j AuraDB, GPT‑4, RAG)
+**MSc, Web Engineering** — TU Chemnitz (Oct 2023–Present)
 
 **B.E, Information Science** — VTU, India
 
